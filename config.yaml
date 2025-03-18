@@ -1,0 +1,4 @@
+aws:
+  access_key_id: "XXXXXX"
+  secret_access_key: "XXXXXX"
+  region: "XXXX"
